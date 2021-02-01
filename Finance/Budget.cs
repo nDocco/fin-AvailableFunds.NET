@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Budgets
+namespace FundCalc
 {
     #region PayPeriod
     /// <summary>
