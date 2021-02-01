@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace FundCalc
+﻿namespace FundCalc
 {
 	/// <summary)>
 	/// Base class for Wealth type objects
@@ -47,6 +45,7 @@ namespace FundCalc
 		/// Sets the value of amount to 0.0.
 		/// </summary>
 		public void ClearAmount() { Amount = 0.0; }
+		/// TODO: TOSTRING METHOD
 		#endregion
 	}
 

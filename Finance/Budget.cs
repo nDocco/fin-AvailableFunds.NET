@@ -237,6 +237,7 @@ namespace FundCalc
             DateTime fromDate = DateTime.Now;
             return this.NextDue(fromDate);
         }
+        /// TODO: TOSTRING METHOD
         #endregion
     }
 
