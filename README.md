@@ -1,2 +1,2 @@
-# fin-AvailableFunds.NET
-A financial calculator to determine available funds if budget commitments are to be met on their pay dates. 
+# Available Funds Calculator (.NET version)
+A personal project of mine that I am developing into a windows application to support my learning.
